@@ -152,14 +152,6 @@ My first Azure data engineering project - building end-to-end data pipelines and
 
 ---
 
-## 📈 3D Contribution Calendar
-
-<p align="center">
-  <img src="./profile-3d-contrib/profile-gitblock.svg" alt="3D Contribution Calendar" />
-</p>
-
----
-
 ## 🤝 Connect with Me
 
 <p align="center">
