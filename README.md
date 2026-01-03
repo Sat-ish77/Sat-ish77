@@ -54,7 +54,7 @@
 
 ## 🚀 Featured Projects
 
-### 🛫 [Aviation Safety Data Analytics Platform](https:https://github.com/Sat-ish77/aviation_analytics)
+### 🛫 [Aviation Safety Data Analytics Platform](https://github.com/Sat-ish77/aviation_analytics)
 > **Azure Data Engineering | ETL Pipelines | Power BI**
 
 A comprehensive data engineering project analyzing 38,000+ aviation accident records using Azure cloud services.
