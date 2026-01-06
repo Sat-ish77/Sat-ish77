@@ -130,7 +130,7 @@ My first Azure data engineering project - end-to-end data pipeline with BI dashb
 ---
 
 ## 💡 What Drives Me
-
+```python
 class SatishWagle:
     def __init__(self):
         self.name = "Satish Wagle"
@@ -142,7 +142,8 @@ class SatishWagle:
         print("Thanks for visiting! Let's build something amazing together! 🚀")
 
 me = SatishWagle()
-me.say_hi()---
+me.say_hi()
+```
 
 ## 🤝 Connect with Me
 
