@@ -148,10 +148,6 @@ Enterprise-grade data engineering project analyzing **38,000+ aviation accident 
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sat-ish77&show_icons=true&theme=dark&border_color=00FF88&title_color=00FF88&icon_color=00FF88&hide_border=false" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sat-ish77&layout=compact&theme=dark&border_color=00FF88&title_color=00FF88&hide_border=false" height="165" />
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Sat-ish77&theme=dark&border=00FF88&ring=00FF88&fire=FF6B6B&currStreakLabel=00FF88" />
